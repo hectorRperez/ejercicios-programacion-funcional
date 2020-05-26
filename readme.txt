@@ -34,3 +34,8 @@ Ejercicio 5
 Escribir una función que reciba una frase y devuelva un diccionario con las palabras que contiene y su longitud.
 
 ----------------------------------------------------------------------------------------------------
+Ejercicio 6
+
+Escribir una función reciba una lista de notas y devuelva la lista de calificaciones correspondientes a esas notas.
+
+----------------------------------------------------------------------------------------------------
