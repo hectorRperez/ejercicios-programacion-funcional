@@ -20,7 +20,7 @@ def calificacion(nota):
     elif nota < 10:
         return 'SB'
     else:
-        return 'MB'
+        return 'MH'
 
 def aplicar_notas(lista_notas):
     '''
