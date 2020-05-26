@@ -23,3 +23,9 @@ Ejercicio 3
 Escribir una función que reciba otra función y una lista, y devuelva otra lista con el resultado de aplicar la función dada a cada uno de los elementos de la lista
 
 ----------------------------------------------------------------------------------------------------
+
+Ejercicio 4
+
+Escribir una función que reciba otra función booleana y una lista, y devuelva otra lista con los elementos de la lista que devuelvan True al aplicarles la función booleana.
+
+----------------------------------------------------------------------------------------------------
