@@ -17,3 +17,9 @@ Modulos utilizados
     math import sin, cos , tan , exp , log
 
 ----------------------------------------------------------------------------------------------------
+
+Ejercicio 3
+
+Escribir una función que reciba otra función y una lista, y devuelva otra lista con el resultado de aplicar la función dada a cada uno de los elementos de la lista
+
+----------------------------------------------------------------------------------------------------
