@@ -39,3 +39,8 @@ Ejercicio 6
 Escribir una función reciba una lista de notas y devuelva la lista de calificaciones correspondientes a esas notas.
 
 ----------------------------------------------------------------------------------------------------
+Ejercicio 7
+
+Escribir una función reciba un diccionario con las asignaturas y las notas de un alumno y devuelva otro diccionario con las asignaturas en mayúsculas y las calificaciones correspondientes a las notas.
+
+----------------------------------------------------------------------------------------------------
